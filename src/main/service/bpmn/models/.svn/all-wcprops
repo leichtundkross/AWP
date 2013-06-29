@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/396/planspielBPMNTomEE/src/main/service/bpmn/models
+END
+BpmnUserTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnUserTask.java
+END
+BpmnEndEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnEndEvent.java
+END
+BpmnParallelGateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnParallelGateway.java
+END
+BpmnElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnElement.java
+END
+BpmnPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/396/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnPool.java
+END
+BpmnLane.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnLane.java
+END
+BpmnInclusiveGateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/374/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnInclusiveGateway.java
+END
+BpmnIntermediateCatchEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnIntermediateCatchEvent.java
+END
+BpmnStartEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/374/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnStartEvent.java
+END
+Grid.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/384/planspielBPMNTomEE/src/main/service/bpmn/models/Grid.java
+END
+BpmnExclusiveGateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/main/service/bpmn/models/BpmnExclusiveGateway.java
+END

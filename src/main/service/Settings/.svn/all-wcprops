@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/service/Settings
+END
+XMLMailboxReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/385/planspielBPMNTomEE/src/main/service/Settings/XMLMailboxReader.java
+END
+XMLReasonsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/385/planspielBPMNTomEE/src/main/service/Settings/XMLReasonsReader.java
+END
+XMLActionsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/416/planspielBPMNTomEE/src/main/service/Settings/XMLActionsReader.java
+END
+XMLUserReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/service/Settings/XMLUserReader.java
+END
+XMLDocumentsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/385/planspielBPMNTomEE/src/main/service/Settings/XMLDocumentsReader.java
+END
+XMLRoleplayReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/service/Settings/XMLRoleplayReader.java
+END
+XMLDecisionsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/385/planspielBPMNTomEE/src/main/service/Settings/XMLDecisionsReader.java
+END

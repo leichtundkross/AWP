@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/service/db
+END
+DecisionGlossaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/373/planspielBPMNTomEE/src/main/service/db/DecisionGlossaryService.java
+END
+RoleplayService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/373/planspielBPMNTomEE/src/main/service/db/RoleplayService.java
+END
+ProcessstepService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/373/planspielBPMNTomEE/src/main/service/db/ProcessstepService.java
+END
+DbService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/service/db/DbService.java
+END
+ReasonGlossaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/373/planspielBPMNTomEE/src/main/service/db/ReasonGlossaryService.java
+END
+ActionGlossaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/service/db/ActionGlossaryService.java
+END
+MailboxService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/373/planspielBPMNTomEE/src/main/service/db/MailboxService.java
+END

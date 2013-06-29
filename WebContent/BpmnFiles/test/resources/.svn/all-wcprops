@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources
+END
+collaboration_zoom.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/collaboration_zoom.bpmn
+END
+subprocess_event.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/subprocess_event.bpmn
+END
+subprocess_expanded.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/subprocess_expanded.bpmn
+END
+parallel.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/parallel.bpmn
+END
+event-based-events.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/event-based-events.bpmn
+END
+subprocess_attached.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/subprocess_attached.bpmn
+END
+prefixed.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/prefixed.bpmn
+END
+testLabels.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/testLabels.bpmn
+END
+multiple.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/multiple.bpmn
+END
+test_invoice.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/test_invoice.bpmn
+END
+task_types.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/task_types.bpmn
+END
+testConnectionLabels.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/testConnectionLabels.bpmn
+END
+task_loop.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/resources/task_loop.bpmn
+END

@@ -1,0 +1,83 @@
+10
+
+dir
+337
+http://www.iwi.hs-karlsruhe.de/Project/svn/2013SS_a_g10_exxeta/planspielBPMNTomEE/WebContent/BpmnFiles/test
+http://www.iwi.hs-karlsruhe.de/Project/svn/2013SS_a_g10_exxeta
+
+
+
+2013-05-09T16:26:27.991595Z
+113
+roch1015
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5b338b81-9302-4fe6-805c-401607231e59
+
+bpmn
+dir
+
+engine
+dir
+
+lib
+dir
+
+renderer
+dir
+
+resources
+dir
+
+runner.html
+file
+
+
+
+
+2013-06-04T17:13:51.593000Z
+4031ed0e6cd56c5c9994bdfd8863f9ef
+2013-05-09T16:26:27.991595Z
+113
+roch1015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1952
+
+transformer
+dir
+
+util
+dir
+

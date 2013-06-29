@@ -1,0 +1,40 @@
+10
+
+dir
+337
+http://www.iwi.hs-karlsruhe.de/Project/svn/2013SS_a_g10_exxeta/planspielBPMNTomEE/src/test
+http://www.iwi.hs-karlsruhe.de/Project/svn/2013SS_a_g10_exxeta
+
+
+
+2013-06-04T10:14:02.327121Z
+331
+lako1012
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5b338b81-9302-4fe6-805c-401607231e59
+
+domain
+dir
+
+service
+dir
+
+ui
+dir
+
+util
+dir
+

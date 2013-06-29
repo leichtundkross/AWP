@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/384/planspielBPMNTomEE/src/test/service/bpmn
+END
+BpmnElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/test/service/bpmn/BpmnElementTest.java
+END
+BpmnTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/342/planspielBPMNTomEE/src/test/service/bpmn/BpmnTestHelper.java
+END
+BpmnPoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/384/planspielBPMNTomEE/src/test/service/bpmn/BpmnPoolTest.java
+END
+BpmnLaneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/372/planspielBPMNTomEE/src/test/service/bpmn/BpmnLaneTest.java
+END
+MockServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/344/planspielBPMNTomEE/src/test/service/bpmn/MockServlet.java
+END
+GridTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/384/planspielBPMNTomEE/src/test/service/bpmn/GridTest.java
+END
+BpmnProcessingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/377/planspielBPMNTomEE/src/test/service/bpmn/BpmnProcessingServiceTest.java
+END

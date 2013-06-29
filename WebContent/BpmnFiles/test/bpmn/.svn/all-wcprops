@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/bpmn
+END
+exclusivegateway.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/bpmn/exclusivegateway.js
+END
+usertask.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/bpmn/usertask.js
+END
+sequenceflow.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/bpmn/sequenceflow.js
+END
+parallelgateway.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/113/planspielBPMNTomEE/WebContent/BpmnFiles/test/bpmn/parallelgateway.js
+END

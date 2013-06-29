@@ -1,0 +1,767 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars
+END
+saaj-impl-1.3.18.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/saaj-impl-1.3.18.jar
+END
+catalina-tribes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/catalina-tribes.jar
+END
+bval-core-0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/bval-core-0.5.jar
+END
+openejb-jpa-integration-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-jpa-integration-4.5.2.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-collections-3.2.1.jar
+END
+commons-codec-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-codec-1.7.jar
+END
+xbean-bundleutils-3.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xbean-bundleutils-3.12.jar
+END
+serp-1.13.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/serp-1.13.1.jar
+END
+tomcat-jdbc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomcat-jdbc.jar
+END
+geronimo-connector-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/geronimo-connector-3.1.1.jar
+END
+cxf-rt-frontend-jaxws-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-frontend-jaxws-2.6.4.jar
+END
+tomee-jdbc-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-jdbc-1.5.2.jar
+END
+cxf-rt-ws-addr-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-ws-addr-2.6.4.jar
+END
+jettison-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/jettison-1.3.jar
+END
+jasper-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/jasper-el.jar
+END
+gson-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/gson-2.1.jar
+END
+cxf-rt-databinding-jaxb-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-databinding-jaxb-2.6.4.jar
+END
+tomee-webapp-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-webapp-1.5.2.jar
+END
+openejb-loader-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-loader-4.5.2.jar
+END
+xmlschema-core-2.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xmlschema-core-2.0.3.jar
+END
+openejb-rest-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-rest-4.5.2.jar
+END
+jasper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/jasper.jar
+END
+xalan-2.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xalan-2.7.1.jar
+END
+serializer-2.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/serializer-2.7.1.jar
+END
+wss4j-1.6.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/wss4j-1.6.8.jar
+END
+primefaces-3.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/primefaces-3.5.jar
+END
+tomee-webservices-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-webservices-1.5.2.jar
+END
+cxf-rt-frontend-jaxrs-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-frontend-jaxrs-2.6.4.jar
+END
+openwebbeans-spi-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openwebbeans-spi-1.1.8.jar
+END
+openejb-core-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-core-4.5.2.jar
+END
+jaxb-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/jaxb-impl.jar
+END
+stax-api-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/stax-api-1.0.1.jar
+END
+javaee-api-6.0-5-tomcat.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/javaee-api-6.0-5-tomcat.jar
+END
+openejb-api-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-api-4.5.2.jar
+END
+openejb-hsql-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-hsql-4.5.2.jar
+END
+openejb-ejbd-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-ejbd-4.5.2.jar
+END
+commons-pool-1.5.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-pool-1.5.7.jar
+END
+openwebbeans-ee-common-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openwebbeans-ee-common-1.1.8.jar
+END
+tomee-common-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-common-1.5.2.jar
+END
+jansi-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/jansi-1.8.jar
+END
+tomcat-coyote.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomcat-coyote.jar
+END
+commons-net-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-net-3.2.jar
+END
+commons-cli-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-cli-1.2.jar
+END
+commons-digester-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-digester-1.8.jar
+END
+openwebbeans-impl-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openwebbeans-impl-1.1.8.jar
+END
+tomee-catalina-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-catalina-1.5.2.jar
+END
+cxf-rt-rs-extension-search-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-rs-extension-search-2.6.4.jar
+END
+openejb-javaagent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-javaagent.jar
+END
+cxf-rt-rs-extension-providers-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-rs-extension-providers-2.6.4.jar
+END
+openejb-server-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-server-4.5.2.jar
+END
+tomcat-i18n-es.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomcat-i18n-es.jar
+END
+tomee-jaxrs-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-jaxrs-1.5.2.jar
+END
+cxf-rt-bindings-xml-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-bindings-xml-2.6.4.jar
+END
+ecj-4.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/ecj-4.2.1.jar
+END
+catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/catalina.jar
+END
+tomee-loader-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-loader-1.5.2.jar
+END
+tomcat-i18n-ja.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomcat-i18n-ja.jar
+END
+bval-jsr303-0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/bval-jsr303-0.5.jar
+END
+commons-lang3-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-lang3-3.1.jar
+END
+cxf-rt-bindings-soap-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-bindings-soap-2.6.4.jar
+END
+openjpa-asm-shaded-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openjpa-asm-shaded-2.2.0.jar
+END
+tomcat-i18n-fr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomcat-i18n-fr.jar
+END
+tomcat-dbcp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomcat-dbcp.jar
+END
+woodstox-core-asl-4.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/woodstox-core-asl-4.0.8.jar
+END
+activemq-core-5.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/activemq-core-5.7.0.jar
+END
+catalina-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/catalina-ant.jar
+END
+openwebbeans-jsf-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openwebbeans-jsf-1.1.8.jar
+END
+tomee-myfaces-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-myfaces-1.5.2.jar
+END
+swizzle-stream-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/swizzle-stream-1.6.1.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-lang-2.6.jar
+END
+slf4j-api-1.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/slf4j-api-1.7.2.jar
+END
+xml-resolver-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xml-resolver-1.2.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-logging-1.1.1.jar
+END
+mimepull-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/mimepull-1.7.jar
+END
+cxf-rt-ws-policy-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-ws-policy-2.6.4.jar
+END
+joda-time-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/joda-time-1.6.2.jar
+END
+openejb-cxf-rs-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-cxf-rs-4.5.2.jar
+END
+tomcat-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomcat-util.jar
+END
+myfaces-api-2.1.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/myfaces-api-2.1.10.jar
+END
+cxf-rt-transports-http-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-transports-http-2.6.4.jar
+END
+cxf-rt-rs-security-cors-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-rs-security-cors-2.6.4.jar
+END
+cxf-rt-ws-security-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-ws-security-2.6.4.jar
+END
+geronimo-transaction-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/geronimo-transaction-3.1.1.jar
+END
+openws-1.4.2-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openws-1.4.2-1.jar
+END
+openwebbeans-ejb-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openwebbeans-ejb-1.1.8.jar
+END
+xbean-asm-shaded-3.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xbean-asm-shaded-3.12.jar
+END
+tomee-mojarra-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomee-mojarra-1.5.2.jar
+END
+openejb-jee-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-jee-4.5.2.jar
+END
+opensaml-2.5.1-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/opensaml-2.5.1-1.jar
+END
+xbean-finder-shaded-3.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xbean-finder-shaded-3.12.jar
+END
+cxf-api-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-api-2.6.4.jar
+END
+tomcat-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/tomcat-api.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/servlet-api.jar
+END
+neethi-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/neethi-3.0.1.jar
+END
+stax2-api-3.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/stax2-api-3.0.2.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/jsp-api.jar
+END
+hsqldb-2.2.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/hsqldb-2.2.8.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-dbcp-1.4.jar
+END
+slf4j-jdk14-1.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/slf4j-jdk14-1.7.2.jar
+END
+mbean-annotation-api-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/mbean-annotation-api-4.5.2.jar
+END
+openejb-jstl-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-jstl-1.2.jar
+END
+commons-beanutils-core-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/commons-beanutils-core-1.8.3.jar
+END
+xmltooling-1.3.2-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xmltooling-1.3.2-1.jar
+END
+activemq-ra-5.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/activemq-ra-5.7.0.jar
+END
+openejb-cxf-transport-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-cxf-transport-4.5.2.jar
+END
+openwebbeans-ee-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openwebbeans-ee-1.1.8.jar
+END
+howl-1.0.1-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/howl-1.0.1-1.jar
+END
+openejb-webservices-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-webservices-4.5.2.jar
+END
+openwebbeans-web-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openwebbeans-web-1.1.8.jar
+END
+cxf-rt-frontend-simple-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-frontend-simple-2.6.4.jar
+END
+openejb-http-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-http-4.5.2.jar
+END
+activemq-protobuf-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/activemq-protobuf-1.1.jar
+END
+openejb-client-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-client-4.5.2.jar
+END
+xbean-naming-3.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xbean-naming-3.12.jar
+END
+cxf-rt-rs-security-oauth2-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-rs-security-oauth2-2.6.4.jar
+END
+javassist-3.17.1-GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/javassist-3.17.1-GA.jar
+END
+xercesImpl-2.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xercesImpl-2.9.1.jar
+END
+kahadb-5.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/kahadb-5.7.0.jar
+END
+cxf-rt-core-2.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/cxf-rt-core-2.6.4.jar
+END
+myfaces-impl-2.1.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/myfaces-impl-2.1.10.jar
+END
+geronimo-javamail_1.4_mail-1.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/geronimo-javamail_1.4_mail-1.8.2.jar
+END
+openejb-cxf-4.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/openejb-cxf-4.5.2.jar
+END
+xmlsec-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xmlsec-1.5.3.jar
+END
+wsdl4j-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/wsdl4j-1.6.2.jar
+END
+quartz-2.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/quartz-2.1.6.jar
+END
+catalina-ha.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/catalina-ha.jar
+END
+xbean-reflect-3.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/114/planspielBPMNTomEE/WebContent/WEB-INF/externalJars/xbean-reflect-3.12.jar
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/ui/wizard
+END
+MailboxController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/416/planspielBPMNTomEE/src/main/ui/wizard/MailboxController.java
+END
+ActionGlossaryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/416/planspielBPMNTomEE/src/main/ui/wizard/ActionGlossaryController.java
+END
+ReasonGlossaryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/416/planspielBPMNTomEE/src/main/ui/wizard/ReasonGlossaryController.java
+END
+simplegenController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/416/planspielBPMNTomEE/src/main/ui/wizard/simplegenController.java
+END
+WizardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/ui/wizard/WizardController.java
+END
+ProcessStepController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/416/planspielBPMNTomEE/src/main/ui/wizard/ProcessStepController.java
+END
+DecisionGlossaryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/416/planspielBPMNTomEE/src/main/ui/wizard/DecisionGlossaryController.java
+END
+PlanspielController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/ui/wizard/PlanspielController.java
+END
+RoleplayController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/416/planspielBPMNTomEE/src/main/ui/wizard/RoleplayController.java
+END
+UserListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Project/svn/2013SS_a_g10_exxeta/!svn/ver/417/planspielBPMNTomEE/src/main/ui/wizard/UserListController.java
+END

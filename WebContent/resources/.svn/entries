@@ -1,0 +1,43 @@
+10
+
+dir
+383
+http://www.iwi.hs-karlsruhe.de/Project/svn/2013SS_a_g10_exxeta/planspielBPMNTomEE/WebContent/resources
+http://www.iwi.hs-karlsruhe.de/Project/svn/2013SS_a_g10_exxeta
+
+
+
+2013-06-15T22:50:29.951120Z
+375
+bapi1013
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5b338b81-9302-4fe6-805c-401607231e59
+
+css
+dir
+
+img
+dir
+
+js
+dir
+
+less
+dir
+
+lib
+dir
+
